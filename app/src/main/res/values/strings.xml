@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstActivity</string>
+    <string name="tv1">Number1</string>
+    <string name="tv2">Number2</string>
+    <string name="btn_ok">OK</string>
+    <string name="tv_ans" />
+    <string name="btn_add">+</string>
+    <string name="btn_substract">-</string>
+    <string name="btn_mul">*</string>
+    <string name="btn_divd">/</string>
+    <string name="et_toast">Opening your calculator</string>
+</resources>
